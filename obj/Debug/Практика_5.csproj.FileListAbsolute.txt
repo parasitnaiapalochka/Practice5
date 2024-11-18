@@ -1,0 +1,12 @@
+C:\Users\daby34\Desktop\prac5-main\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\daby34\Desktop\prac5-main\bin\Debug\WindowsFormsApp2.exe
+C:\Users\daby34\Desktop\prac5-main\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\Практика_5.csproj.AssemblyReference.cache
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\MyForm._Main_Form.resources
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\MyForm._Add.resources
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\MyForm._Print.resources
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\Практика_5.csproj.GenerateResource.cache
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\Практика_5.csproj.CoreCompileInputs.cache
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\WindowsFormsApp2.exe
+C:\Users\daby34\Desktop\prac5-main\obj\Debug\WindowsFormsApp2.pdb
